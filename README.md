@@ -1,5 +1,5 @@
 # CorporateWebsite
-<!DOCTYPE html>
+
 <html>
 
 <head>
